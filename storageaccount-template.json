@@ -29,7 +29,8 @@
             "type": "object",
             "defaultValue": {
                 "Environment": "Dev",
-                "Project": "Learn ARM Templates"
+                "Project": "Learn ARM Templates",
+                "Machine Type": "Storage Account"
             }
         }
     },
